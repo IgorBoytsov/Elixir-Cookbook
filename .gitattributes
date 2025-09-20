@@ -1,0 +1,10 @@
+* text=auto
+
+*.ex   text eol=lf
+*.exs  text eol=lf
+*.eex  text eol=lf
+*.leex text eol=lf
+*.heex text eol=lf
+
+mix.lock       text eol=lf
+.formatter.exs text eol=lf
